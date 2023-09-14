@@ -2,15 +2,7 @@
 
 ## Resources
 
-#### Read or watch:
-
-* [Unix shell](https://intranet.alxswe.com/rltoken/f0YU9TAhniMXWlSXtb64Yw)
-* [Thompson shell](https://intranet.alxswe.com/rltoken/7LJOp2qP7qHUcsOK2-F3qA)
-* [Ken Thompson](https://intranet.alxswe.com/rltoken/wTSu31ZP1f7fFTJFgRQC7w)
-* [Everything you need to know to start coding your own shell concept page]()
-## Learning Objectives
-
-### General
+#### Read or watch
 
 * Who designed and implemented the original Unix operating system
 * Who wrote the first version of the UNIX shell
