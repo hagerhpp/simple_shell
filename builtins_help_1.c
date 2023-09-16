@@ -44,5 +44,5 @@ void help_unsetenv(void)
 	msg = "environmental variable.\n\n\tUpon failure, prints a ";
 	write(STDOUT_FILENO, msg, _strlen(msg));
 	msg = "message to stderr.\n";
-	write(STDOUT_FILENO, msg, _strlen(msg));
+write(STDOUT_FILENO, msg, _strlen(msg));
 }

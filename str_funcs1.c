@@ -96,6 +96,6 @@ int _strncmp(const char *s1, const char *s2, size_t n)
 	}
 	if (i == n)
 		return (0);
-	else
-		return (-15);
+else
+return (-15);
 }

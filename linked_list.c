@@ -109,5 +109,5 @@ void free_list(list_t *head)
 		free(head->dir);
 		free(head);
 		head = next;
-	}
+}
 }

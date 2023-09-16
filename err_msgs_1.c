@@ -68,5 +68,5 @@ char *error_127(char **args)
 	_strcat(error, ": not found\n");
 
 	free(hist_str);
-	return (error);
+return (error);
 }

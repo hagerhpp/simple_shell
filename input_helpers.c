@@ -202,5 +202,5 @@ int check_args(char **args)
 				return (create_error(&args[i + 1], 2));
 		}
 	}
-	return (0);
+return (0);
 }

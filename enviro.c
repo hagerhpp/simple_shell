@@ -67,6 +67,5 @@ char **_getenv(const char *var)
 		if (_strncmp(var, environ[dex], lgth) == 0)
 			return (&environ[dex]);
 	}
-
 	return (NULL);
 }

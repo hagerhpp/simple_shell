@@ -16,7 +16,6 @@ void free_args(char **args, char **front)
 
 	for (i = 0; args[i] || args[i + 1]; i++)
 		free(args[i]);
-
 	free(front);
 }
 

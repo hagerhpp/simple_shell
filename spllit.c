@@ -95,5 +95,5 @@ char **_strtok(char *line, char *delim)
 	ptr[t] = NULL;
 	ptr[t + 1] = NULL;
 
-	return (ptr);
+return (ptr);
 }
