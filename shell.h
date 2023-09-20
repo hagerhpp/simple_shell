@@ -15,10 +15,6 @@
 
 /* Global Enviro */
 extern char **environ;
-/* Global Program Naming */
-char *name;
-/* Global Hist Count */
-int hist;
 
 /**
  * struct list_s - the new struct type defining a linked list.
@@ -135,3 +131,4 @@ void help_history(void);
 
 int proc_file_commands(char *file_path, int *exe_ret);
 #endif /* _SHELL_H_ */
+
